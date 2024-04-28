@@ -1,6 +1,6 @@
 let coin = 0;
 
-function coinClick() {
+function textChange() {
 	coin++
 	document.getElementById("counter").innerHTML = coin;
 }
